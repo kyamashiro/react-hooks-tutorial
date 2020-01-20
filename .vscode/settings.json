@@ -1,0 +1,14 @@
+{
+  /**
+   * Prettier
+   * @formatOnSave 保存時にフォーマットするのを許可
+   */
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.endOfLine": "lf",
+  "prettier.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true
+}
